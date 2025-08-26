@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aejazawte
-- 👀 Passonaiate about Devops and new technologies
+- 👀 Passionate about DevOps and new technologies.
 - 🌱 I’m currently Working as AWS DevSecOps Engineer at AIQOD
 - 💞️ I’m looking to collaborate on ...Different projects
 - 📫 How to reach me ...aejazawte@gmail.com Mo-8623828196
